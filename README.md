@@ -97,7 +97,3 @@ src
 ## Contributing
 
 If you’d like to contribute, please fork the repository, create a feature branch, and submit a pull request. All contributions are welcome!
-
----
-
-This README provides an overview, setup instructions, and guidance on usage for your project. Let me know if you'd like to add or modify any section!
